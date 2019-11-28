@@ -18,3 +18,8 @@ tmp/**/*
 styles/groupedlayercontrol-beta.css
 index-beta.html
 .vscode/settings.json
+insert.php
+logout.php
+index.php
+backend/markerData.php
+backend/markerDataUser.php
