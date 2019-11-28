@@ -36,12 +36,12 @@
 }
 
 .close-modal:hover {
-  color: #000;
+  color: #f5c388;
   cursor: pointer;
 }
 
 .close-modal:after {
-  content: '✖';
+  content: 'X';
 }
 
 .modal__bg {
@@ -119,6 +119,14 @@
   padding: 30px;
 }
 
+.modal-content__account {
+  padding: 30px;
+}
+
+.modal-content__info {
+  padding: 30px;
+}
+
 @media only screen and (max-width: 500px) {
   .modal {
     width: 90%;
@@ -126,6 +134,7 @@
 
   .modal-content,
   .modal-content__android,
+  .modal-content__account,
   .modal-content__paypal {
     padding: 10px 20px;
   }

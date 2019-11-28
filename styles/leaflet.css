@@ -368,7 +368,7 @@
 	font: 16px 'Roboto', sans-serif;
 	color: #fff;
 	height: 100%;
-	background-image: url("../data/images/site/bg_menuTV.png");
+	background-image: url("../data/images/site/modal_bg.png");
 	}
 .leaflet-control-layers-scrollbar {
 	overflow-y: scroll;

@@ -1,7 +1,7 @@
 .leaflet-control-layers-group-name {
   margin-bottom: .2em;
   margin-left: 3px;
-	font: bold 18px/14px 'Roboto', sans-serif;
+	font: bold 14px 'Roboto', sans-serif;
 }
 
 .leaflet-control-layers-group {
@@ -31,6 +31,9 @@ div.leaflet-control-layers:nth-child(4) a.leaflet-control-layers-toggle{
 }
 div.leaflet-control-layers:nth-child(5) a.leaflet-control-layers-toggle{
 	background-image: url('../data/images/icons/icon_petmaster.png');
+}
+div.leaflet-control-layers:nth-child(6) a.leaflet-control-layers-toggle {
+  background-image: url('../data/images/markers/playermarker/playerMarker1.png');
 }
 
 

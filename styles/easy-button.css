@@ -4,6 +4,7 @@
 	background-image: url("../data/images/site/bg_tipT.png");
   padding-top: 5px;
   outline-style: none;
+  border-radius: 1px;
 }
 
 .leaflet-bar button {
