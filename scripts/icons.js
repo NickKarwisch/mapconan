@@ -603,3 +603,61 @@ var petBearIcon = L.icon({
 	iconAnchor: [16,16],
 	popupAnchor:	[0, -10]
 });
+
+////////////////////////////////////////////////////Player Made Icons
+
+var playerIcon1 = L.icon({
+	iconUrl: 'data/images/markers/playermarker/playerMarker1.png',
+				
+	iconSize:	[32,32],
+	iconAnchor: [16,16],
+	popupAnchor:	[0, -10]
+});
+
+var playerIcon2 = L.icon({
+	iconUrl: 'data/images/markers/playermarker/playerMarker2.png',
+				
+	iconSize:	[32,32],
+	iconAnchor: [16,16],
+	popupAnchor:	[0, -10]
+});
+
+var playerIcon3 = L.icon({
+	iconUrl: 'data/images/markers/playermarker/playerMarker3.png',
+				
+	iconSize:	[32,32],
+	iconAnchor: [16,16],
+	popupAnchor:	[0, -10]
+});
+
+var playerIcon4 = L.icon({
+	iconUrl: 'data/images/markers/playermarker/playerMarker4.png',
+				
+	iconSize:	[32,32],
+	iconAnchor: [16,16],
+	popupAnchor:	[0, -10]
+});
+
+var playerIcon5 = L.icon({
+	iconUrl: 'data/images/markers/playermarker/playerMarker5.png',
+				
+	iconSize:	[32,32],
+	iconAnchor: [16,16],
+	popupAnchor:	[0, -10]
+});
+
+var playerIcon6 = L.icon({
+	iconUrl: 'data/images/markers/playermarker/playerMarker6.png',
+				
+	iconSize:	[32,32],
+	iconAnchor: [16,16],
+	popupAnchor:	[0, -10]
+});
+
+var playerIcon7 = L.icon({
+	iconUrl: 'data/images/markers/playermarker/playerMarker7.png',
+				
+	iconSize:	[32,32],
+	iconAnchor: [16,16],
+	popupAnchor:	[0, -10]
+});
