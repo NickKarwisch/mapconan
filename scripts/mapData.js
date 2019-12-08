@@ -244,7 +244,7 @@
 
 		$(function () {
 			var ajaxRequestContent = {
-				url: "../backend/markerData.php",
+				url: "./backend/markerData.php",
 				type: "GET",
 				dataType: 'json',
 				success : function (data, status, xhr) {
